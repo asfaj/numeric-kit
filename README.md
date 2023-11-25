@@ -1,1 +1,1 @@
-# numeric-kit
+test-npm-package

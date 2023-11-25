@@ -1,0 +1,22 @@
+{
+  "name": "numeric-kit",
+  "version": "1.0.0",
+  "description": "\"A simple package for basic mathematical operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asfaj/numeric-kit.git"
+  },
+  "author": "Asfa Jabeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asfaj/numeric-kit/issues"
+  },
+  "homepage": "https://github.com/asfaj/numeric-kit#readme",
+  "directories": {
+    "test": "test"
+  }
+}
